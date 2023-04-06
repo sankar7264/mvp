@@ -1,9 +1,8 @@
 {
-  
-  "homepage": "http://sankar7264.github.io/mvp"
-
-"scripts": {
-  "predeploy": "npm run build-storybook",
-  "deploy-storybook": "gh-pages -d storybook-static",
-  "build-storybook": "build-storybook"
-},
+  "homepage": "http://sankar7264.github.io/mvp",
+  "scripts": {
+    "predeploy": "npm run build-storybook",
+    "deploy-storybook": "gh-pages -d storybook-static",
+    "build-storybook": "build-storybook"
+  }
+}
