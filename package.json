@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "storybook": "start-storybook -p 9001 -c .storybook"
+  }
+  "devDependencies": {
+    "@storybook/react": "^7.0.2",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^9.1.2"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
+
