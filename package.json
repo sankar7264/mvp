@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "storybook": "start-storybook -p 9001 -c .storybook"
+    "storybook": "start-storybook -p 9001  .storybook"
   },
   "devDependencies": {
     "@storybook/react": "^7.0.2",
