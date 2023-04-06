@@ -1,7 +1,7 @@
 {
   "scripts": {
     "storybook": "start-storybook -p 9001 -c .storybook"
-  }
+  },
   "devDependencies": {
     "@storybook/react": "^7.0.2",
     "babel-core": "^6.26.3",
